@@ -37,7 +37,3 @@ WealthWise is a Flask-based personal finance decision-support web app. It combin
 4. **Retirement Readiness** — `retirement_linear_model_indian`, a Multiple Linear Regression model, predicts a 0–100 score (clamped) from 8 financial inputs.
 5. **Expense Forecast** — A simple regression model predicts a forecasted expense figure from income alone.
 6. **Expense Category NLP** — `expense_nlp_model` makes an initial prediction on the description text, then a keyword dictionary (8 categories: Food & Dining, Travel & Transport, Groceries & Essentials, Entertainment & Leisure, Health & Medical, Bills & Utilities, Education Expenses, Others) can override it for higher accuracy on common merchant/keyword patterns.
-
----
-
-## 📂 Project Structure
